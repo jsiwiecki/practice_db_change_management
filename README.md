@@ -1,5 +1,5 @@
 # practice_db_change_management
-A tiny exercise about database change management with snowflake.
+A tiny exercise about database change management with GitHub Actions and Snowflake.
 
 
 ### Goal of this repository:
@@ -9,10 +9,10 @@ A tiny exercise about database change management with snowflake.
 
 ### Repository contains:
 1. Two migrations scripts
-2. Github Workflow
+2. Github Workflow using a connection with Snowflake 
 
 
 ### What was done in this repo:
 1. Creation Actions Secrets in Git
 2. Creation of Actions Workflow [with schemachange lib] 
-3. Creation of simple 2 sql scripts applied based on Git Action
+4. Creation of simple 2 sql scripts applied based on Git Action
