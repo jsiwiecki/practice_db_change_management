@@ -1,5 +1,5 @@
 # practice_db_change_management
-A tiny exercise about database change management with GitHub Actions and Snowflake.
+A project / exercise about database change management with GitHub Actions and Snowflake.
 
 
 ### Goal of this repository:
